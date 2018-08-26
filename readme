@@ -1,0 +1,7 @@
+DES.c is encryption algorithm.
+It generates the keys and stores in keys.txt
+It takes alice.txt as input encrypts and produces bob.txt as output
+
+decrypt.c is decryption algorithm
+It reads keys from keys.txt and stores them in reverse order
+It takes bob.txt as input and produces malice.txt as output.
